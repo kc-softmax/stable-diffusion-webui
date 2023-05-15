@@ -160,3 +160,10 @@ Licenses for borrowed code can be found in `Settings -> Licenses` screen, and al
 - UniPC sampler - Wenliang Zhao - https://github.com/wl-zhao/UniPC
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (You)
+
+### 명령어 설명
+```shell
+# 패키지 설치
+./webui.sh
+# python webui.py --port {port} ... 등 옵션 적용
+```
